@@ -21,7 +21,7 @@ export interface GetGPUTier {
   /**
    * URL of directory where benchmark data is hosted.
    *
-   * @default https://unpkg.com/detect-gpu@{version}/dist/benchmarks
+   * @default https://unpkg.com/@grepp/detect-gpu@{version}/dist/benchmarks
    */
   benchmarksURL?: string;
   /**
@@ -100,7 +100,7 @@ export const getGPUTier = async ({
   override = {},
   glContext,
   failIfMajorPerformanceCaveat = false,
-  benchmarksURL = `https://unpkg.com/detect-gpu@${version}/dist/benchmarks`,
+  benchmarksURL = `https://unpkg.com/@grepp/detect-gpu@${version}/dist/benchmarks`,
 }: GetGPUTier = {}): Promise<TierResult> => {
   const queryCache: { [k: string]: Promise<ModelEntry[]> } = {};
   if (isSSR) {

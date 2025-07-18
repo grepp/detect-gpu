@@ -52,7 +52,7 @@ getGPUTier({
   /**
    * URL of directory where benchmark data is hosted.
    *
-   * @default https://unpkg.com/detect-gpu@{version}/dist/benchmarks
+   * @default https://@grepp/unpkg.com/detect-gpu@{version}/dist/benchmarks
    */
   benchmarksURL?: string;
   /**
