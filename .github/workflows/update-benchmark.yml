@@ -29,6 +29,8 @@ jobs:
       - run: yarn install --prefers-offline
         if: ${{ steps.yarn-cache.outputs.cache-hit == 'true' }}
 
+      - run: npx puppeteer browsers install chrome
+
       - name: Bump patch
         run: npm version patch --no-git-tag-version
 
