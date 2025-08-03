@@ -6475,7 +6475,7 @@
       [
         3840,
         2160,
-        60
+        160
       ]
     ]
   ],
@@ -10768,6 +10768,19 @@
     ]
   ],
   [
+    "nvidia rtx 4000 ada generation",
+    "4000",
+    "4000 ada generation nvidia rtx",
+    0,
+    [
+      [
+        1920,
+        1080,
+        549
+      ]
+    ]
+  ],
+  [
     "nvidia rtx 4000 ada generation laptop gpu",
     "4000",
     "4000 ada generation gpu laptop nvidia rtx",
@@ -11519,9 +11532,9 @@
     0,
     [
       [
-        1920,
-        1080,
-        57
+        3840,
+        2160,
+        45
       ]
     ]
   ],
