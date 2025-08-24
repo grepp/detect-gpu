@@ -99,13 +99,13 @@
       [
         2436,
         1125,
-        31,
+        60,
         "apple iphone 11 pro"
       ],
       [
         2688,
         1242,
-        70,
+        58,
         "apple iphone 11 pro max"
       ]
     ]
@@ -127,6 +127,12 @@
         1125,
         61,
         "apple iphone 12"
+      ],
+      [
+        2532,
+        1170,
+        97,
+        "apple iphone 12 pro"
       ],
       [
         2778,
@@ -151,14 +157,14 @@
       [
         2338,
         1080,
-        32,
+        60,
         "apple iphone 13 mini"
       ],
       [
         2532,
         1170,
         60,
-        "apple iphone 13 pro"
+        "apple iphone 14"
       ],
       [
         2778,
