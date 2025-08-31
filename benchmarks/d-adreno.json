@@ -115,6 +115,19 @@
     ]
   ],
   [
+    "qualcomm adreno 7c gen 3 gpu",
+    "7",
+    "3 7c adreno gen gpu qualcomm",
+    0,
+    [
+      [
+        1920,
+        1080,
+        49
+      ]
+    ]
+  ],
+  [
     "qualcomm adreno 7c+ gen 3",
     "7",
     "3 7c+ adreno gen qualcomm",

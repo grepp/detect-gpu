@@ -675,6 +675,20 @@
     ]
   ],
   [
+    "arm mali-g925-immortalis mc12",
+    "925",
+    "arm mali-g925-immortalis mc12",
+    0,
+    [
+      [
+        2800,
+        1260,
+        118,
+        "vivo x200 pro"
+      ]
+    ]
+  ],
+  [
     "arm mali-t604 mp4",
     "604",
     "arm mali-t604 mp4",
