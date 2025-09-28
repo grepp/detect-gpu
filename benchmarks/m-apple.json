@@ -61,17 +61,23 @@
       [
         1792,
         828,
-        60,
+        65,
         "apple iphone xr"
       ],
       [
         2436,
         1125,
-        58,
+        49,
         "apple iphone xs"
       ],
       [
         2208,
+        1242,
+        60,
+        "apple iphone xs max"
+      ],
+      [
+        2688,
         1242,
         60,
         "apple iphone xs max"
@@ -190,7 +196,7 @@
         2778,
         1284,
         60,
-        "apple iphone 15 plus"
+        "apple iphone 14 pro max"
       ]
     ]
   ],
@@ -209,7 +215,7 @@
       [
         2778,
         1284,
-        60,
+        122,
         "apple iphone 15 pro max"
       ]
     ]

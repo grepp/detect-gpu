@@ -1,6 +1,6 @@
 {
   "name": "@grepp/detect-gpu",
-  "version": "5.0.82",
+  "version": "5.0.83",
   "description": "Classify GPU's based on their benchmark score in order to provide an adaptive experience.",
   "author": "Tim van Scherpenzeel",
   "license": "MIT",
