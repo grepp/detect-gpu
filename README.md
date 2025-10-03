@@ -1,16 +1,16 @@
 # Forked from [pmndrs/detect-gpu](https://github.com/pmndrs/detect-gpu)
 
+Fixed the automatic update issue on detect-gpu
+
 # Detect GPU
 
-[![npm version](https://badge.fury.io/js/detect-gpu.svg)](https://badge.fury.io/js/detect-gpu)
-[![gzip size](https://img.badgesize.io/https:/unpkg.com/detect-gpu/dist/detect-gpu.esm.js?compression=gzip)](https://unpkg.com/detect-gpu)
-[![install size](https://packagephobia.now.sh/badge?p=detect-gpu)](https://packagephobia.now.sh/result?p=detect-gpu)
+[![npm version](https://badge.fury.io/js/@grepp%2Fdetect-gpu.svg)](https://badge.fury.io/js/@grepp%2Fdetect-gpu)
 
 Classifies GPUs based on their 3D rendering benchmark score allowing the developer to provide sensible default settings for graphically intensive applications. Think of it like a user-agent detection for the GPU but more powerful.
 
 ## Demo
 
-[Live demo](https://pmndrs.github.io/detect-gpu/)
+[Live demo](https://gistpreview.github.io/?d86f1681c364f614bd47a4079fb99ac8/detect-gpu-demo.html)
 
 ## Installation
 
@@ -19,13 +19,13 @@ By default we use the [UNPKG](https://unpkg.com) CDN to host the benchmark data.
 Make sure you have [Node.js](http://nodejs.org/) installed.
 
 ```sh
- $ npm install detect-gpu
+ $ npm install @grepp/detect-gpu
 ```
 
 ## Usage
 
 ```ts
-import { getGPUTier } from 'detect-gpu';
+import { getGPUTier } from '@grepp/detect-gpu';
 
 (async () => {
   const gpuTier = await getGPUTier();
