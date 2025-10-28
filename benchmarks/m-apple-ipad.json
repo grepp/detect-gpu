@@ -41,7 +41,7 @@
       [
         2732,
         2048,
-        44,
+        41,
         "apple ipad pro (12.9-inch, 2nd gen)"
       ]
     ]
@@ -285,7 +285,7 @@
       [
         2388,
         1668,
-        120,
+        118,
         "apple ipad pro (11-inch) (3rd generation)"
       ],
       [
@@ -338,13 +338,13 @@
         2360,
         1640,
         60,
-        "apple ipad air 11-inch 7th gen (wifi)"
+        "apple ipad air 11-inch 7th gen (wifi+cellular)"
       ],
       [
         2732,
         2048,
         60,
-        "apple ipad air 13-inch 7th gen (wifi)"
+        "apple ipad air 13-inch 7th gen (wifi+cellular)"
       ]
     ]
   ],
@@ -365,6 +365,26 @@
         2064,
         121,
         "apple ipad pro 12.9 inch 7th gen"
+      ]
+    ]
+  ],
+  [
+    "apple m5 gpu",
+    "5",
+    "apple gpu m5",
+    0,
+    [
+      [
+        2420,
+        1668,
+        120,
+        "apple ipad pro m5 11 inch"
+      ],
+      [
+        2752,
+        2064,
+        60,
+        "apple ipad pro m5 13 inch"
       ]
     ]
   ]
