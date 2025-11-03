@@ -61,7 +61,7 @@
       [
         2160,
         1620,
-        57,
+        59,
         "apple ipad 8th gen (wifi+cellular)"
       ],
       [
@@ -190,7 +190,7 @@
         2266,
         1488,
         60,
-        "apple ipad mini (a17)"
+        "apple ipad mini 7th gen cellular (a17)"
       ]
     ]
   ],
@@ -344,7 +344,7 @@
         2732,
         2048,
         60,
-        "apple ipad air 13-inch 7th gen (wifi+cellular)"
+        "apple ipad air 13-inch 7th gen (wifi)"
       ]
     ]
   ],
@@ -383,7 +383,7 @@
       [
         2752,
         2064,
-        60,
+        120,
         "apple ipad pro m5 13 inch"
       ]
     ]
