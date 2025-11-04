@@ -115,7 +115,8 @@ export const getGPUTier = async ({
     isMobile = !!deviceInfo?.isMobile,
     screenSize = window.screen,
     loadBenchmarks = async (file: string) => {
-      const data: ModelEntry[] = await fetch(`${benchmarksURL}/${file}`).then(
+      const url = benchmarksURL.endsWith('/') ? benchmarksURL : `${benchmarksURL}/`;
+      const data: ModelEntry[] = await fetch(`${url}${file}`).then(
         (response) => response.json()
       );
 
